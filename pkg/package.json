@@ -1,0 +1,15 @@
+{
+  "name": "animations_3d",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "animations_3d_bg.wasm",
+    "animations_3d.js",
+    "animations_3d.d.ts"
+  ],
+  "main": "animations_3d.js",
+  "types": "animations_3d.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
